@@ -1,0 +1,10 @@
+cv2
+numpy
+torch
+tkinter
+ultralytics
+pygame
+threading
+time
+datetime
+twilio
