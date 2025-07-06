@@ -11,6 +11,6 @@ Dataset used for combined [Gun and Knife Detection](https://universe.roboflow.co
    pip install -r requirements.txt
    ```
 
-2. Run the program
+2. Run the program.
 
 3. Done!
